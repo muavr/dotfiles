@@ -68,9 +68,9 @@ modules-center = date
 modules-right = xkeyboard backlight-acpi pulseaudio powermenu
 
 
-tray-position = right
-tray-padding = 2
-;tray-background = #0063ff
+;tray-position = left
+;tray-padding = -1
+;tray-background = ${colors.background}
 
 ;wm-restack = bspwm
 ;wm-restack = i3
